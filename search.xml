@@ -4,6 +4,13 @@
   
     
     <entry>
+      <title><![CDATA[关于博客]]></title>
+      <url>https://glanlyu.github.io/2016/10/28/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/</url>
+      <content type="text"><![CDATA[大学迷茫了两年，最近开始学习Python，用博客写一些自己的想法，记录学习，也是对自己的一点监督和激励吧。 不定时更新，随时断更，愿我爱上学习。 早睡，锻炼，加油！]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>https://glanlyu.github.io/2016/10/27/hello-world/</url>
       <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
